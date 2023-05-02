@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5NURLXIuz+ijS3g6Nfz3d8qRBYMWQuSPVUA4riN3r+0nkDH7/qDmnNM15jj8tetSNO/ezH9vczxWxN+Qa/O9kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalin\\source\\repos\\IronicAssignments\\OcrAssignment\\OcrAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalin\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\kalin\\.nuget\\packages\\ironocr\\2023.5.35\\ironocr.2023.5.35.nupkg.sha512",
+    "C:\\Users\\kalin\\.nuget\\packages\\ironsoftware.system.drawing\\2023.4.4\\ironsoftware.system.drawing.2023.4.4.nupkg.sha512",
+    "C:\\Users\\kalin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kalin\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\kalin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
